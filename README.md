@@ -16,6 +16,7 @@ I am Training With ALmadrasa.
 
 ## 🔧 My Tech Stack
 
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=Python)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 
