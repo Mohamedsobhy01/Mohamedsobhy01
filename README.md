@@ -1,21 +1,12 @@
-# Hey there, I'm [Yousef Dergham](https://yousefdergham.vercel.app/) 👋
+# Welcome to Mohamed Sobhy's Profile! 👋
 
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
+**CS Student**
 
-💼 **Current:** Software Engineer at [Almadrsa](https://almdrasa.com)
+💼 **Current:** CS Student @ HTI
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
 </p>
-
-## 🚀 About Me
-
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
-
-I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
-
-
 
 
 <br clear="right"/>
