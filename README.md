@@ -1,6 +1,6 @@
 # Hey there, I'm Mohamed Sobhy 👋
 
-**CS Student · Tea Lover 🍵**
+**CS Student | Tea Lover 🍵**
 
 💼 **Current :** 👨🏻‍💻 CS Student at HTI
 
