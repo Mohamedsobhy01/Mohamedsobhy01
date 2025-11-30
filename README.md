@@ -25,6 +25,6 @@ I am Training With ALmadrasa.
 <div align="center">
   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-sobhy-967ba0392)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/mohamed-sobhy-967ba0392](https://www.linkedin.com/in/mohamed-sobhy-967ba0392/?locale=en_US))
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/medoosobhy)
 </div>
