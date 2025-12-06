@@ -2,13 +2,13 @@
 
 **CS Student | Tea Lover 🍵**
 
-💼 **Current :** 👨🏻‍💻 CS Student at HTI
+💼 **Current :** 👨🏻‍💻 Computer Science Student at Higher Technological Institute
 
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a CS Student skilled in Python. <br/>
+I am a Computer Science Student skilled in Python. <br/>
 I am Training With ALmadrasa.
 
 
