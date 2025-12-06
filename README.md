@@ -2,7 +2,7 @@
 
 **CS Student | Tea Lover 🍵**
 
-💼 **Current :** 👨🏻‍💻 Computer Science Student at Higher Technological Institute
+💼 **Current :** 👨🏻‍💻 CS Student at Higher Technological Institute
 
 ## 🚀 About Me
 
