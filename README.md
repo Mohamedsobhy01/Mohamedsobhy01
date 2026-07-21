@@ -8,7 +8,13 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Computer Science Student skilled in Python. <br/>
+I am a Computer Science Student. <br/>
+
+🌱 Currently learning Backend Development with ASP.NET and SQL Server.
+
+💻 Passionate about web development, databases, and problem solving.
+
+🚀 Always learning, building projects, and improving my skills every day.
 
 
 <br clear="right"/>
