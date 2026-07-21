@@ -17,7 +17,10 @@ I am Training With ALmadrasa.
 ## 🔧 My Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=Python)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white)
 
 
 ## 🔗 Connect with Me
